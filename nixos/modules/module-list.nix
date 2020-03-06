@@ -87,6 +87,7 @@
   ./misc/lib.nix
   ./misc/label.nix
   ./misc/locate.nix
+  ./misc/magic-wormhole-mailbox-server.nix
   ./misc/meta.nix
   ./misc/nixpkgs.nix
   ./misc/passthru.nix
